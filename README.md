@@ -10,7 +10,7 @@ jsp를 이용한 Voca Test
       그리고 테스트화면의 값들을 가져와서 결과를 보여준다.
 
 
-● 실행 화면
+# 실행 화면
 
                                                     로그인 페이지
 ![3](https://user-images.githubusercontent.com/85939078/122636622-3057fd00-d125-11eb-81d0-10d3d92188d1.png)
@@ -29,7 +29,7 @@ jsp를 이용한 Voca Test
 
 
 
-● 코 드
+# 코 드
 코드는 git hub 파일을 다운받고 sql database를 다운해서 sql db를 생성 후 설정을 똑같이 해준다.
 
                                                     DB연결 JSP
